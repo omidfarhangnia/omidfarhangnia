@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Iran/Tehran</h3>
 
 # 💫 About Me:
-you can cantact me via my email : omidfarhangnia@gmail.com.<br>I am currently learning Threejs And I can't wait to use it in my projects.<br>I did a chess project with C++ for fun.
+you can contact me via my email : omidfarhangnia@gmail.com.<br>I am currently learning Threejs And I can't wait to use it in my projects.<br>I did a chess project with C++ for fun.
 
 
 ## 🌐 Socials:
