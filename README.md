@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Omid Farhangnia</h1>
+<h1 align="center">Hello there 👋, I'm Omid Farhangnia</h1>
 <h3 align="center">A Software Engineer who loves building dynamic and interactive web experiences.</h3>
 
 <p align="center">
