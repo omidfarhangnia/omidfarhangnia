@@ -1,41 +1,82 @@
-<h1 align="center">Hi 👋, I'm omid</h1>
-<h3 align="center">A passionate frontend developer from Iran/Tehran</h3>
+<h1 align="center">Hi there 👋, I'm Omid Farhangnia</h1>
+<h3 align="center">A Software Engineer who loves building dynamic and interactive web experiences.</h3>
 
-# 💫 About Me:
-you can contact me via my email : omidfarhangnia@gmail.com.<br>I am currently learning Threejs And I can't wait to use it in my projects.<br>I did a chess project with C++ for fun.
+<p align="center">
+  I'm driven by the challenge of solving complex problems and turning creative ideas into robust, well-architected applications. From full-stack e-commerce platforms to real-time 3D games, my focus is on writing clean, scalable code and creating engaging user interfaces.
+</p>
 
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omidfarhangnia@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omid-farhangnia-20a122202) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17191863/omid-farhangnia)
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) 
-![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
-![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omidfarhangnia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br />
-![](https://nirzak-streak-stats.vercel.app/?user=omidfarhangnia&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=omidfarhangnia&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=omidfarhangnia&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
-[![](https://visitcount.itsvg.in/api?id=omidfarhangnia&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+## 🚀 My Projects
 
+I believe in learning by doing. Here are some of the projects I'm proud of:
+
+| Project | Description | Key Technologies |
+| :--- | :--- | :--- |
+| 🎮 **Elements Invaders** | A modern, 3D space shooter game with a complete game loop, physics engine, and advanced state management. | **React Three Fiber, Rapier, Redux Toolkit** |
+| 🛍️ **Cyber E-Commerce** | A full-stack e-commerce storefront with secure authentication, a dynamic shopping cart, and a pixel-perfect design. | **Next.js 15, Prisma, Auth.js, PostgreSQL** |
+| ☕ **Koppee Clone** | A complete rebuild of a coffee shop template, focusing on server-side actions and reusable components. | **React Router, Server Actions, PostgreSQL** |
+
+<br>
+
+<details>
+<summary>Click to see more details about each project</summary>
+
+### 1. Elements Invaders
+A modern, fast-paced, 3D space shooter game built from the ground up. This project was a deep dive into building a complete game loop, managing complex state with Redux, and optimizing performance in a 3D environment.
+- **Live Demo:** **[elements-invaders.vercel.app](https://elements-invaders.vercel.app/)**
+- **Source Code:** **[GitHub Repository](https://github.com/omidfarhangnia/Elements-Invaders)**
+
+### 2. Cyber E-Commerce
+A full-stack e-commerce application featuring a pixel-perfect implementation of a professional Figma design. It includes essential e-commerce functionalities like user authentication, a dynamic shopping cart, and a favorites system.
+- **Live Demo:** **[cyber-e-commerce-six.vercel.app](https://cyber-e-commerce-six.vercel.app)**
+- **Source Code:** **[GitHub Repository](https://github.com/omidfarhangnia/Cyber_E_Commerce)**
+
+### 3. Koppee Coffee Shop Clone
+A modern and complete rebuild of the Koppee coffee shop template. The primary goal was to implement advanced concepts in server-side routing with React Router, robust form management, and building reusable components.
+- **Live Demo:** **[koppee-react-router-clone.vercel.app](https://koppee-react-router-clone-3vxzb6n26-omids-projects-4059c488.vercel.app/)**
+- **Source Code:** **[GitHub Repository](https://github.com/omidfarhangnia/Koppee-React-Router-Clone)**
+
+</details>
+
+---
+
+## 💻 My Tech Stack
+
+My toolbox includes a wide range of modern technologies to build applications from front to back.
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | `React`, `Next.js`, `TypeScript`, `JavaScript (ES6+)` |
+| **State Management** | `Redux Toolkit` |
+| **Routing** | `React Router` |
+| **Styling** | `Tailwind CSS`, `SASS`, `Bootstrap`, `CSS3`, `HTML5` |
+| **Backend & Database** | `Prisma`, `Auth.js (NextAuth)`, `PostgreSQL`, `Firebase` |
+| **Animation & 3D** | `GSAP`, `Three.js`, `React Three Fiber` |
+| **Tools & Others** | `Git`, `Vercel`, `NPM`, `C++` |
+
+---
+
+## 🌐 Let's Connect
+
+I'm always open to collaborating on interesting projects or just chatting about technology. Feel free to reach out!
+
+<p align="left">
+  <a href="mailto:omidfarhangnia@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/omid-farhangnia-20a122202" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://stackoverflow.com/users/17191863/omid-farhangnia" target="_blank">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+</p>
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidfarhangnia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</p>
