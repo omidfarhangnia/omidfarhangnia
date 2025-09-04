@@ -53,7 +53,7 @@ My toolbox includes a wide range of modern technologies to build applications fr
 | **Styling** | `Tailwind CSS`, `SASS`, `Bootstrap`, `CSS3`, `HTML5` |
 | **Backend & Database** | `Prisma`, `Auth.js (NextAuth)`, `PostgreSQL`, `Firebase` |
 | **Animation & 3D** | `GSAP`, `Three.js`, `React Three Fiber` |
-| **Tools & Others** | `Git`, `Vercel`, `NPM`, `C++` |
+| **Tools & Legacy** | `Git`, `Vercel`, `NPM`, `jQuery`, `C++` |
 
 ---
 
