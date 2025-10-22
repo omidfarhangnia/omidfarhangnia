@@ -34,7 +34,7 @@ A full-stack e-commerce application featuring a pixel-perfect implementation of 
 
 ### 3. Koppee Coffee Shop Clone
 A modern and complete rebuild of the Koppee coffee shop template. The primary goal was to implement advanced concepts in server-side routing with React Router, robust form management, and building reusable components.
-- **Live Demo:** **[koppee-react-router-clone.vercel.app](https://koppee-react-router-clone-3vxzb6n26-omids-projects-4059c488.vercel.app/)**
+- **Live Demo:** **[koppee-react-router-clone.vercel.app](https://koppee-react-router-clone.vercel.app/)**
 - **Source Code:** **[GitHub Repository](https://github.com/omidfarhangnia/Koppee-React-Router-Clone)**
 
 </details>
