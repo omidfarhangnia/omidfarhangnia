@@ -50,8 +50,9 @@ My toolbox includes a wide range of modern technologies to build applications fr
 | **Frontend** | `React`, `Next.js`, `TypeScript`, `JavaScript (ES6+)` |
 | **State Management** | `Redux Toolkit` |
 | **Routing** | `React Router` |
-| **Styling** | `Tailwind CSS`, `SASS`, `Bootstrap`, `CSS3`, `HTML5` |
+| **Styling** | `Material UI`, `Tailwind CSS`, `SASS`, `Bootstrap`, `CSS3`, `HTML5` |
 | **Backend & Database** | `Prisma`, `Auth.js (NextAuth)`, `PostgreSQL`, `Firebase` |
+| **Networking** | `Axios` |
 | **Animation & 3D** | `GSAP`, `Three.js`, `React Three Fiber` |
 | **Tools & Legacy** | `Git`, `Vercel`, `NPM`, `jQuery`, `C++` |
 
